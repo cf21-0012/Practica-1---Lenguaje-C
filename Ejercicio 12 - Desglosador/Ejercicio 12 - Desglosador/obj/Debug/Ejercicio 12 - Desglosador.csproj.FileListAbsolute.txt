@@ -1,0 +1,8 @@
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 12 - Desglosador\Ejercicio 12 - Desglosador\bin\Debug\Ejercicio 12 - Desglosador.exe.config
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 12 - Desglosador\Ejercicio 12 - Desglosador\bin\Debug\Ejercicio 12 - Desglosador.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 12 - Desglosador\Ejercicio 12 - Desglosador\bin\Debug\Ejercicio 12 - Desglosador.pdb
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 12 - Desglosador\Ejercicio 12 - Desglosador\obj\Debug\Ejercicio 12 - Desglosador.csproj.AssemblyReference.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 12 - Desglosador\Ejercicio 12 - Desglosador\obj\Debug\Ejercicio 12 - Desglosador.csproj.SuggestedBindingRedirects.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 12 - Desglosador\Ejercicio 12 - Desglosador\obj\Debug\Ejercicio 12 - Desglosador.csproj.CoreCompileInputs.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 12 - Desglosador\Ejercicio 12 - Desglosador\obj\Debug\Ejercicio 12 - Desglosador.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 12 - Desglosador\Ejercicio 12 - Desglosador\obj\Debug\Ejercicio 12 - Desglosador.pdb
