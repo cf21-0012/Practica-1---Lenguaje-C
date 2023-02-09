@@ -1,0 +1,8 @@
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 14 - Primer grado\Ejercicio 14 - Primer grado\bin\Debug\Ejercicio 14 - Primer grado.exe.config
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 14 - Primer grado\Ejercicio 14 - Primer grado\bin\Debug\Ejercicio 14 - Primer grado.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 14 - Primer grado\Ejercicio 14 - Primer grado\bin\Debug\Ejercicio 14 - Primer grado.pdb
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 14 - Primer grado\Ejercicio 14 - Primer grado\obj\Debug\Ejercicio 14 - Primer grado.csproj.AssemblyReference.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 14 - Primer grado\Ejercicio 14 - Primer grado\obj\Debug\Ejercicio 14 - Primer grado.csproj.SuggestedBindingRedirects.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 14 - Primer grado\Ejercicio 14 - Primer grado\obj\Debug\Ejercicio 14 - Primer grado.csproj.CoreCompileInputs.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 14 - Primer grado\Ejercicio 14 - Primer grado\obj\Debug\Ejercicio 14 - Primer grado.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 14 - Primer grado\Ejercicio 14 - Primer grado\obj\Debug\Ejercicio 14 - Primer grado.pdb
