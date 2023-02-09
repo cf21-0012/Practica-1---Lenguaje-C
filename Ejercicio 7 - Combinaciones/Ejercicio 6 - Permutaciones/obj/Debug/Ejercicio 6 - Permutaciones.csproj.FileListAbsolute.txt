@@ -1,0 +1,8 @@
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 6 - Permutaciones\Ejercicio 6 - Permutaciones\bin\Debug\Ejercicio 6 - Permutaciones.exe.config
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 6 - Permutaciones\Ejercicio 6 - Permutaciones\bin\Debug\Ejercicio 6 - Permutaciones.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 6 - Permutaciones\Ejercicio 6 - Permutaciones\bin\Debug\Ejercicio 6 - Permutaciones.pdb
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 6 - Permutaciones\Ejercicio 6 - Permutaciones\obj\Debug\Ejercicio 6 - Permutaciones.csproj.AssemblyReference.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 6 - Permutaciones\Ejercicio 6 - Permutaciones\obj\Debug\Ejercicio 6 - Permutaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 6 - Permutaciones\Ejercicio 6 - Permutaciones\obj\Debug\Ejercicio 6 - Permutaciones.csproj.CoreCompileInputs.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 6 - Permutaciones\Ejercicio 6 - Permutaciones\obj\Debug\Ejercicio 6 - Permutaciones.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 6 - Permutaciones\Ejercicio 6 - Permutaciones\obj\Debug\Ejercicio 6 - Permutaciones.pdb
