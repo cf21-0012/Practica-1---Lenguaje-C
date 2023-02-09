@@ -1,0 +1,8 @@
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 9 - Fisica\Ejercicio 9 - Fisica\obj\Debug\Ejercicio 9 - Fisica.csproj.AssemblyReference.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 9 - Fisica\Ejercicio 9 - Fisica\obj\Debug\Ejercicio 9 - Fisica.csproj.SuggestedBindingRedirects.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 9 - Fisica\Ejercicio 9 - Fisica\obj\Debug\Ejercicio 9 - Fisica.csproj.CoreCompileInputs.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 9 - Fisica\Ejercicio 9 - Fisica\bin\Debug\Ejercicio 9 - Fisica.exe.config
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 9 - Fisica\Ejercicio 9 - Fisica\bin\Debug\Ejercicio 9 - Fisica.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 9 - Fisica\Ejercicio 9 - Fisica\bin\Debug\Ejercicio 9 - Fisica.pdb
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 9 - Fisica\Ejercicio 9 - Fisica\obj\Debug\Ejercicio 9 - Fisica.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 9 - Fisica\Ejercicio 9 - Fisica\obj\Debug\Ejercicio 9 - Fisica.pdb
