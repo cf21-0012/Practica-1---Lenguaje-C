@@ -1,0 +1,8 @@
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 11 - Calificaciones\Ejercicio 11 - Calificaciones\bin\Debug\Ejercicio 11 - Calificaciones.exe.config
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 11 - Calificaciones\Ejercicio 11 - Calificaciones\bin\Debug\Ejercicio 11 - Calificaciones.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 11 - Calificaciones\Ejercicio 11 - Calificaciones\bin\Debug\Ejercicio 11 - Calificaciones.pdb
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 11 - Calificaciones\Ejercicio 11 - Calificaciones\obj\Debug\Ejercicio 11 - Calificaciones.csproj.AssemblyReference.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 11 - Calificaciones\Ejercicio 11 - Calificaciones\obj\Debug\Ejercicio 11 - Calificaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 11 - Calificaciones\Ejercicio 11 - Calificaciones\obj\Debug\Ejercicio 11 - Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 11 - Calificaciones\Ejercicio 11 - Calificaciones\obj\Debug\Ejercicio 11 - Calificaciones.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 11 - Calificaciones\Ejercicio 11 - Calificaciones\obj\Debug\Ejercicio 11 - Calificaciones.pdb
