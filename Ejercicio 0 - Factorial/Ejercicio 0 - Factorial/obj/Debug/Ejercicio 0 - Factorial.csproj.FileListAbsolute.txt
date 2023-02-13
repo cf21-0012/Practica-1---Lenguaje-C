@@ -1,0 +1,8 @@
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 0 - Factorial\Ejercicio 0 - Factorial\bin\Debug\Ejercicio 0 - Factorial.exe.config
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 0 - Factorial\Ejercicio 0 - Factorial\bin\Debug\Ejercicio 0 - Factorial.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 0 - Factorial\Ejercicio 0 - Factorial\bin\Debug\Ejercicio 0 - Factorial.pdb
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 0 - Factorial\Ejercicio 0 - Factorial\obj\Debug\Ejercicio 0 - Factorial.csproj.AssemblyReference.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 0 - Factorial\Ejercicio 0 - Factorial\obj\Debug\Ejercicio 0 - Factorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 0 - Factorial\Ejercicio 0 - Factorial\obj\Debug\Ejercicio 0 - Factorial.csproj.CoreCompileInputs.cache
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 0 - Factorial\Ejercicio 0 - Factorial\obj\Debug\Ejercicio 0 - Factorial.exe
+C:\Users\t\Desktop\Unphu\2022Semestre 7\Lenguaje de Programacion C\Codigo\Practica 1\Ejercicio 0 - Factorial\Ejercicio 0 - Factorial\obj\Debug\Ejercicio 0 - Factorial.pdb
